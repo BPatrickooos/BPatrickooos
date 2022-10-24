@@ -3,7 +3,7 @@
 class Patrick
 {
     private string Name = "Patrick";
-    private List<string> languages = new List<string>()
+    private List<string> Languages = new List<string>()
     {
         "Rust", "C#"
     }
