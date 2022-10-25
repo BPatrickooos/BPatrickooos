@@ -3,10 +3,7 @@
 class Patrick
 {
     private string Name = "Patrick";
-    private List<string> Languages = new List<string>()
-    {
-        "Rust", "C#"
-    }
+    private List<string> Languages = new List<string>() { "C#" }
 }
 ```
 ![snake gif](https://github.com/Patrickooos/Patrickooos/blob/output/github-contribution-grid-snake.svg)
